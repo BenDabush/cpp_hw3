@@ -1,5 +1,5 @@
 /***
- * https://www.geeksforgeeks.org/shuffle-a-deck-of-cards-3/
+ * From this site I took the way to shuffle a deck of cards randomly: https://www.geeksforgeeks.org/shuffle-a-deck-of-cards-3/
 */
 
 #include "game.hpp"
